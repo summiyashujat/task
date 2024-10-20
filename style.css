@@ -1,0 +1,67 @@
+.container{
+    height: 600px;
+    width: 1200px;
+    background-color: white;
+    margin-top: 80px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.light{
+    height: 550px;
+    width: 900px;
+    background-color: rgb(245, 10, 120);
+    
+}
+.redish{
+    height: 550px;
+    width: 900px;
+    background-color: white;
+    
+}
+.lingo{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(250, 109, 175);
+    margin-left: 200px;
+    margin-top: 80px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+   
+}
+.redish h1{
+ margin-left: 200px;
+ font-size: 80px;
+}
+.redish h3{
+    margin-left: 150px;
+    font-size: larger;
+}
+.redish button{
+    background-color:rgb(245, 10, 120); 
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    margin-left: 70px;
+}
+.redish p{
+    margin-left: 50px;
+}
+.lingo img{
+    margin-left: 90px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 40px;
+    object-fit: cover;
+}
+.lingo h1{
+    margin-left:100px ;
+}
+.lingo p{
+    margin-left: 100px;
+}
+.lingo i{
+    font-size: x-large;
+    margin-left: 70px;
+}
